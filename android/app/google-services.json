@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "938898056822",
+    "project_id": "my-school-app-rauf",
+    "storage_bucket": "my-school-app-rauf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938898056822:android:50abc197f3b7bf1ee22157",
+        "android_client_info": {
+          "package_name": "com.example.my_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938898056822-a3em7apb505elo745etentkhbu77gjoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_school",
+            "certificate_hash": "c55f1b44cfc0218d236a9d23ddc4fa09c86ca3d0"
+          }
+        },
+        {
+          "client_id": "938898056822-uda53anm4n2us5edaju15pg8mfeivgse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_school",
+            "certificate_hash": "c155984674e5755ee99bab87083ba66846e086e7"
+          }
+        },
+        {
+          "client_id": "938898056822-oeg6nghfu6gkt6ijasd632jthlroheqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDws4afZ7gBYBVoDVZdkXnIlj27rZd8wSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938898056822-oeg6nghfu6gkt6ijasd632jthlroheqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
